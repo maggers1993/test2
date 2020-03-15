@@ -4,3 +4,13 @@ dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server
+  - bokeh
+  - python
+  - pandas
+  - scipy
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+    - jupyter-server-proxy
+    - nbserverproxy
